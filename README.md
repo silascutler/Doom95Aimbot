@@ -9,5 +9,6 @@ Source code from :
 ## Notes from Demo
  * Player hard shifts to focusing on targets
  * Does not auto fire
+ * There's some weird lag when moving (may be because of VM) 
  
 
