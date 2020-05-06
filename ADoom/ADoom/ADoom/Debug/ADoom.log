@@ -1,0 +1,4 @@
+﻿  ADoom.cpp
+c:\users\user\desktop\adoom\adoom\adoom\adoom.cpp(134): warning C4101: 'err': unreferenced local variable
+  ADoom.vcxproj -> C:\Users\User\Desktop\ADoom\ADoom\Debug\ADoom.exe
+  ADoom.vcxproj -> C:\Users\User\Desktop\ADoom\ADoom\Debug\ADoom.pdb (Full PDB)
